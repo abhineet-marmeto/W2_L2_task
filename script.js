@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
         "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
         "price": "499.00",
         "product_image": "image1.png",
-        "ambient_color": "#FFD700",
+        "ambient_color": "#fd9504",
       },
       {
         "category": "Dainty Timepieces",
