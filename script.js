@@ -51,6 +51,10 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('description').innerText = item.description;
     document.getElementById('price').innerText = '$ ' + item.price;
     document.body.style.background = `linear-gradient(to right, ${item.ambient_color}, #C0C0C0)`;
+
+    // document.getElementById("shop_button").addEventListener("hover", button => {
+    //   button.
+    // })
   });
 
   // Set initial values
